@@ -1,4 +1,4 @@
-👋 Hello GitHub community! I'm Gustavo Pasquini, a passionate developer with a keen interest in everything everything involving technology. I'm thrilled to be part of this vibrant community of developers, designers, and innovators.
+👋 Hello GitHub community! I'm Gustavo Pasquini, a passionate developer with a keen interest in everything involving technology. I'm thrilled to be part of this vibrant community of developers, designers, and innovators.
 
 🚀 My journey in the world of software development started in 2021 when I had my fist contact with HTML in my school. But now in 2024 I'm focusing more in the programming world, striving to be the best of me.
 
